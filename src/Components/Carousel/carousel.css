@@ -1,0 +1,22 @@
+/* ImageCarousel.css */
+
+.carousel-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.carousel .slide {
+    background: none;
+}
+
+.carousel .legend {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+#caro{
+    margin-top: 100px;
+    width:fit-content
+}
